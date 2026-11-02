@@ -10,7 +10,7 @@
       "ko-fi": "peterwood"
     }
   ],
-  "version": "1.5.2",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": 13,
     "verified": "14.363"
@@ -39,11 +39,11 @@
       "path": "languages/uk.json"
     }
   ],
-  "url": "https://github.com/jeffhawke/black-sword-hack-mod/",
+  "url": "https://github.com/Nico-Vassallo/black-sword-hack-mod/",
   "relationships": {
     "systems": [],
     "requires": []
   },
-  "manifest": "https://raw.githubusercontent.com/jeffhawke/black-sword-hack-mod/master/system.json",
-  "download": "https://github.com/jeffhawke/black-sword-hack-mod/archive/refs/tags/v1.5.2.zip"
+  "manifest": "https://github.com/Nico-Vassallo/black-sword-hack-mod/master/system.json",
+  "download": "https://github.com/Nico-Vassallo/black-sword-hack-mod/archive/refs/tags/v0.0.1.zip"
 }
